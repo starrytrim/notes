@@ -1,14 +1,3 @@
-/**
- * notability解锁plus，如果解锁无效果，点击恢复计划
- * 公众号：木瞳科技Pro
- *
- * [MITM]
- * hostname = notability.com
- * 
- * 
- * 
- */
-
 const SCRIPT_NAME = 'Notability';
 
 const plus = /^https?:\/\/notability\.com\/(global|subscriptions)/;
@@ -25,14 +14,14 @@ if(plus.test($request.url)) {
             "refundedDate": null,
             "refundedReason": null,
             "isInBillingRetryPeriod": false,
-            "expirationDate": "2999-01-01T00:00:00.000Z",
+            "expirationDate": "9999-01-01T00:00:00.000Z",
             "gracePeriodExpiresAt": null,
             "overDeviceLimit": false,
             "expirationIntent": null,
             "__typename": "AppStoreSubscription",
             "user": null,
             "status": "canceled",
-            "originalPurchaseDate": "2021-01-01T00:00:00.000Z"
+            "originalPurchaseDate": "2024-01-01T00:00:00.000Z"
           },
         "__typename": "SubscriptionResult"
         }
