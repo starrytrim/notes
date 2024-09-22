@@ -1,4 +1,4 @@
-总共是6行 进入编辑页面可看到。选择代理模式，
+总共是6行 进入编辑页面可看到。选择代理模式
 
 #!url=http://script.hub/file/_start_/https://raw.githubusercontent.com/starrytrim/notes/refs/heads/main/notability.conf end_/notability.sgmodule?type=qx-rewrite&target=shadowrocket-module&del=true
 
