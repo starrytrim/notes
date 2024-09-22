@@ -1,3 +1,5 @@
+总共是6行
+
 #!url=http://script.hub/file/_start_/https://raw.githubusercontent.com/starrytrim/notes/refs/heads/main/notability.conf end_/notability.sgmodule?type=qx-rewrite&target=shadowrocket-module&del=true
 #!name=notability
 
